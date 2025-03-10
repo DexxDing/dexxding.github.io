@@ -131,6 +131,8 @@
 .sidebar .author__desktop {
   display: none;
   @media screen and (min-width: 1024px) {
+    max-width: 200px; /* Prevent employer text from overflowing */
+    padding-right: 10px; /* Buffer space */
     display: block;
   }
 }
