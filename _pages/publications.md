@@ -10,5 +10,5 @@ redirect_from:
 
 ## Conference
 
-- Ding, D., Wang, L., Zhu, L., Gedeon, T., & Koniusz, P. (2025). Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion. The Thirteenth International Conference on Learning Representations(ICLR), 2025. 
+- Ding, D., Wang, L., Zhu, L., Gedeon, T., & Koniusz, P. (2025). Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion. The Thirteenth International Conference on Learning Representations(ICLR). 
 
