@@ -10,7 +10,7 @@ Dexuan Ding is a graduate CS student from The Australian National University, sp
 
 ### Education
 
-- **Bachelor of Advanced Computing(Honours)**, Machine Learning, The Australian National University (ANU), *Feb 2021 - Dec 2024*
+- **Bachelor of Advanced Computing (Honours)**, Machine Learning, The Australian National University (ANU), *Feb 2021 - Dec 2024*
 
 
 ### Recent News
