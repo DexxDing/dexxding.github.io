@@ -7,5 +7,4 @@ redirect_from:
 ---
 
 
-
-
+While I’m new to professional experience, I’m enthusiastic about contributing my skills to exciting projects. Feel free to email me if you’re interested in collaborating!
