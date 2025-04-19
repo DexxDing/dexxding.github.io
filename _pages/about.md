@@ -15,7 +15,7 @@ Dexuan Ding is a graduate CS student from The Australian National University, sp
 
 ### Recent News
 
-- Mar 2025: I will begin my Master of Research (MRes) program at *Macquarie University*, advised by Dr. Yuankai Qi and Prof. Jian Yang.
+- Mar 2025: I will begin my Master of Research (MRes) program at *Macquarie University*.
 - Jan 2025: Our work "*Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion*" has been accepted to **ICLR2025**!
 
 
