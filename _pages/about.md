@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Foobar
-
+Dexuan Ding is a graduate CS student from The Australian National University, specializing in machine learning and computer vision.
 
 ### Education
 
@@ -16,6 +15,11 @@ Foobar
 
 ### Recent News
 
+- Mar 2025: I will begin my Master of Research (MRes) program at *Macquarie University*, advised by Dr. Yuankai Qi and Prof. Jian Yang.
 - Jan 2025: Our work "*Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion*" has been accepted to **ICLR2025**!
 
 
+### Honours & Awards
+
+- Macquarie University Research Excellence Scholarship, *Jul 2025 - Jul 2026*
+- ACM International Conference on Multimedia (ACM MM) Outstanding Reviewer, 2024.
