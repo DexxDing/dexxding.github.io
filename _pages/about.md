@@ -6,10 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dexuan Ding is a graduate CS student from The Australian National University, specializing in machine learning and computer vision.
+Dexuan Ding is a Master of Research (MRes) student at Macquarie University, specializing in AI for dementia tasks under the supervision of Dr. Yuankai Qi and Professor Jian Yang. Prior to that, he received his undergraduate degree from the Australian National University, specializing in machine learning.
 
 ### Education
 
+- **Master of Research**, Computer science and Engineering, Macquarie University, *Jul 2025 - present*
 - **Bachelor of Advanced Computing (Honours)**, Machine Learning, The Australian National University (ANU), *Feb 2021 - Dec 2024*
 
 
