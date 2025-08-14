@@ -14,7 +14,7 @@ Dexuan Ding is a Master of Research (MRes) student at Macquarie University, spec
 - **Bachelor of Advanced Computing (Honours)**, Machine Learning, The Australian National University (ANU), *Feb 2021 - Dec 2024*
 
 ### Research Interest
-Diffusion Models, Multi-modal Fusion, Medical Image Analysis, Video Anomaly detection
+Diffusion Models, Multi-modal Fusion, Medical Imaging Analysis, Video Anomaly detection
 
 
 ### Recent News
