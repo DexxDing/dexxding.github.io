@@ -23,6 +23,6 @@ Dexuan Ding is a Master of Research (MRes) student at Macquarie University, his 
 
 ### Honours & Awards
 
-- NVIDIA Academic Research Grant in Generative AI: Training and Model Development for the project “Alzheimer’s Disease Progression Prediction via Generative Diffusion Models” (Sole Student Collaborator), *2025*.
+- NVIDIA Academic Research Grant in "Generative AI: Training and Model Development" for the project “Alzheimer’s Disease Progression Prediction via Generative Diffusion Models” (Sole Student Collaborator), *2025*.
 - Macquarie University Research Excellence Scholarship, *Jul 2025 - Jul 2026*.
 - ACM International Conference on Multimedia (ACM MM) Outstanding Reviewer, 2024.
