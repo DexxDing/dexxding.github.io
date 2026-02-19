@@ -13,13 +13,13 @@ main:
 
   - title: "Projects"
     url: /projects/    
+
+  - title: "Teaching"
+  url: /teaching/
     
   # - title: "Service"
   #   url: /service/
 
-  - title: "Teaching"
-  url: /teaching/
-        
   # - title: "Blog Posts"
   #   url: /year-archive/
     
